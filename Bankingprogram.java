@@ -3,7 +3,7 @@ public class Bankingprogram {
     static Scanner sc = new Scanner(System.in);
     public static void main(String[] args) {
         //Declare variables
-        double balance = 1000;
+        double balance = 5000;
         boolean isRunning = true;
         int choice;
         while (isRunning) {

@@ -37,7 +37,7 @@ public class Quiztime{
                 System.out.println();
             }
         }
-        System.out.printf("Your score is %d",score);
+        System.out.printf("Your score is %d out of 5",score);
         sc.close();
     }
 }

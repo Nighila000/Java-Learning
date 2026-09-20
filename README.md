@@ -1,45 +1,77 @@
-# Java Learning ☕️
+# Java Learning 🚀
 
-This repository contains my Java learning journey, practice programs, and projects.
+A repository documenting my journey of learning **Java**, from core programming fundamentals to **Object-Oriented Programming and Data Structures**.
 
 ## 📚 What I'm Learning
 
-* Java Basics
-* Variables and Data Types
-* User Input using Scanner
-* Conditional Statements
+* Java fundamentals
+* Variables and data types
+* Conditional statements
 * Loops
-* Methods
-* Object-Oriented Programming (OOP)
-* Data Structures and Algorithms
+* Methods and return values
+* Arrays and 2D arrays
+* Enhanced `for` loops
+* Varargs
+* User input with `Scanner`
+* Problem-solving and basic algorithms
+* Object-Oriented Programming *(in progress)*
+* Data Structures and Algorithms *(upcoming)*
 
-## 💻 Projects
+## 🛠️ Projects
 
 ### 🏦 Banking Program
 
-A simple console-based banking program built using Java.
+A console-based banking application developed while learning core Java concepts.
 
-**Features:**
+**Features**
 
-* Check balance
+* Display balance
 * Deposit money
 * Withdraw money
-* Exit the program
-* Menu-driven interface
+* Basic validation
+* Menu-driven interaction
 
-**Concepts Used:**
+**Concepts practiced:** `Scanner`, loops, `switch`, methods, parameters, return values, and conditional statements.
 
-* Java variables
-* `Scanner`
-* `if-else`
-* `while` loop
-* Methods
-* Basic input validation
+### 🧠 Java Quiz Game
+
+A console-based multiple-choice quiz using arrays and user input.
+
+**Features**
+
+* Multiple questions
+* Multiple-choice options
+* User input
+* Automatic answer checking
+* Score tracking
+
+**Concepts practiced:** 1D arrays, 2D arrays, nested loops, enhanced `for` loops, `Scanner`, conditionals, and basic program logic.
 
 ## 🎯 Goal
 
-To build strong Java fundamentals and gradually progress toward OOP, DSA, and placement-level programming.
+Build a strong foundation in Java and gradually progress toward **OOP, DSA, problem-solving, and larger software projects**.
+
+This repository contains my learning progress, practice programs, and selected projects as I continue developing my programming skills.
+
+## 💻 Tools
+
+* Java
+* IntelliJ IDEA
+* Visual Studio Code
+* Git & GitHub
+
+## 📈 Progress
+
+```text
+Java Fundamentals       ✅
+Methods & Loops         ✅
+Arrays & 2D Arrays      ✅
+Mini Projects           ✅
+OOP                     🔄 In Progress
+DSA                     ⏳ Upcoming
+Larger Projects         ⏳ Upcoming
+```
 
 ---
 
-⭐ This repository will be updated as I continue learning Java.
+⭐ This repository will continue to evolve as I learn and build more projects.

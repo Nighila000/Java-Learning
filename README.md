@@ -4,14 +4,11 @@ A repository documenting my journey of learning **Java**, from core programming 
 
 ## 📚 What I'm Learning
 
-* Java fundamentals
-* Variables and data types
-* Conditional statements
-* Loops
+* Java fundamentals, variables, and data types
+* Conditional statements and loops
 * Methods and return values
 * Arrays and 2D arrays
-* Enhanced `for` loops
-* Varargs
+* Enhanced `for` loops and varargs
 * User input with `Scanner`
 * Problem-solving and basic algorithms
 * Object-Oriented Programming *(in progress)*
@@ -21,57 +18,53 @@ A repository documenting my journey of learning **Java**, from core programming 
 
 ### 🏦 Banking Program
 
-A console-based banking application developed while learning core Java concepts.
+A console-based banking application.
 
-**Features**
+**Features:** Balance display, deposits, withdrawals, input validation, and menu-driven interaction.
 
-* Display balance
-* Deposit money
-* Withdraw money
-* Basic validation
-* Menu-driven interaction
-
-**Concepts practiced:** `Scanner`, loops, `switch`, methods, parameters, return values, and conditional statements.
+**Concepts practiced:** `Scanner`, loops, `switch`, methods, parameters, and return values.
 
 ### 🧠 Java Quiz Game
 
 A console-based multiple-choice quiz using arrays and user input.
 
-**Features**
+**Features:** Multiple questions, answer checking, and score tracking.
 
-* Multiple questions
-* Multiple-choice options
-* User input
-* Automatic answer checking
-* Score tracking
+**Concepts practiced:** 1D and 2D arrays, nested loops, enhanced `for` loops, and conditionals.
 
-**Concepts practiced:** 1D arrays, 2D arrays, nested loops, enhanced `for` loops, `Scanner`, conditionals, and basic program logic.
+### 🎮 Tic-Tac-Toe
+
+A console-based Tic-Tac-Toe game built using Java.
+
+**Features:** 3×3 game board, automatic player switching, move validation, winner detection, draw detection, and replay.
+
+**Concepts practiced:** 2D arrays, nested loops, conditionals, input validation, and game logic.
 
 ## 🎯 Goal
 
 Build a strong foundation in Java and gradually progress toward **OOP, DSA, problem-solving, and larger software projects**.
 
-This repository contains my learning progress, practice programs, and selected projects as I continue developing my programming skills.
-
 ## 💻 Tools
 
 * Java
-* IntelliJ IDEA
 * Visual Studio Code
+* IntelliJ IDEA
 * Git & GitHub
 
 ## 📈 Progress
 
-```text
+```
 Java Fundamentals       ✅
 Methods & Loops         ✅
 Arrays & 2D Arrays      ✅
 Mini Projects           ✅
 OOP                     🔄 In Progress
 DSA                     ⏳ Upcoming
+GUI Development         ⏳ Upcoming
 Larger Projects         ⏳ Upcoming
 ```
 
 ---
 
 ⭐ This repository will continue to evolve as I learn and build more projects.
+
